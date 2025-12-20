@@ -1,0 +1,11 @@
+# Trained models & artifacts
+model.pkl
+pipeline.pkl
+*.joblib
+
+output.csv
+
+__pycache__/
+*.py[cod]
+
+.env
